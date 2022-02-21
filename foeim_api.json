@@ -1,21 +1,21 @@
 
 {
     "state": [
-        "Ayeyarwady Region",
-        "Bago Region",
-        "Chin State", 
-        "Kachin State", 
-        "Kayah State", 
-        "Kayin State", 
-        "Magway Region", 
         "Mandalay Region", 
-        "Mon State", 
-        "Naypyitaw Union Territory", 
-        "Rakhine State", 
-        "Shan State", 
+        "Kachin State",
+        "Sagaing Region",
+        "Kayah State",
+        "Magway Region",
+        "Kayin State", 
+        "Bago Region",
+        "Chin State",
+        "Ayeyarwady Region",
+        "Mon State",
+        "Yangon Region",
+        "Rakhine State",
         "Tanintharyi Region",
-        "Yangon Region"
-    ],
+        "Shan State", 
+  ],
     "level": [
         {
             "levelName": "Elementary",
