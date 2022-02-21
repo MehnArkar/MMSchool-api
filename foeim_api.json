@@ -1,0 +1,160 @@
+{
+    "state": [
+        "Yangon",
+        "Mandalay",
+        "Naypyidaw"
+    ],
+    "level": [
+        {
+            "levelName": "Elementary",
+            "grade": [
+                {
+                    "gradeName": "KG",
+                    "sub": [
+                        {
+                            "subName": "Myan",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Eng",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Math",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        }
+                    ]
+                },
+                {
+                    "gradeName": "Grade-1",
+                    "sub": [
+                        {
+                            "subName": "Myan",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Eng",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Math",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelName": "Middle",
+            "grade": [
+                {
+                    "gradeName": "Grade-2",
+                    "sub": [
+                        {
+                            "subName": "Myan",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Eng",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Math",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        }
+                    ]
+                },
+                 {
+                    "gradeName": "Grade-3",
+                    "sub": [
+                        {
+                            "subName": "Myan",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Eng",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Math",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        }
+                    ]
+                },
+                 {
+                    "gradeName": "Grade-4",
+                    "sub": [
+                        {
+                            "subName": "Myan",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Eng",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Math",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "levelName": "Hight",
+            "grade": [
+                {
+                    "gradeName": "Grade-5",
+                    "sub": [
+                        {
+                            "subName": "Myan",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Eng",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Math",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        }
+                    ]
+                },
+                 {
+                    "gradeName": "Grade-6",
+                    "sub": [
+                        {
+                            "subName": "Myan",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Eng",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Math",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        }
+                    ]
+                },
+                 {
+                    "gradeName": "Grade-7",
+                    "sub": [
+                        {
+                            "subName": "Myan",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Eng",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Math",
+                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
