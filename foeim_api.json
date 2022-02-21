@@ -1,44 +1,187 @@
+
 {
     "state": [
-        "Yangon",
-        "Mandalay",
-        "Naypyidaw"
+        "Ayeyarwady Region",
+        "Bago Region",
+        "Chin State", 
+        "Kachin State", 
+        "Kayah State", 
+        "Kayin State", 
+        "Magway Region", 
+        "Mandalay Region", 
+        "Mon State", 
+        "Naypyitaw Union Territory", 
+        "Rakhine State", 
+        "Shan State", 
+        "Tanintharyi Region",
+        "Yangon Region"
     ],
     "level": [
         {
             "levelName": "Elementary",
             "grade": [
                 {
-                    "gradeName": "KG",
+                    "gradeName": "Grade-1",
                     "sub": [
                         {
-                            "subName": "Myan",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Myanmar",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5m2KO528jhLAg1gnwmFpBIX"
                         },
                         {
-                            "subName": "Eng",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "English",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mfbhMAGcLSC_aXWHxB1_Eb"
                         },
                         {
-                            "subName": "Math",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Mathematics",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mehaFywLtFITE5abOZekpJ"
+                        },
+                        {
+                            "subName": "Science",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kIT-JHz159JmyfUIjfoI8_"
+                        },
+                        {
+                            "subName": "Moral",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mWvU8ckJkxwpffWCL8E00N"
+                        },
+                        {
+                            "subName": "Lift Skills",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nEZ9UWACGkG1AI2ftyiEU0"
+                        },
+                        {
+                            "subName": "Social",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lIsIe--SDtuq6Y2nDRKuex"
                         }
                     ]
                 },
                 {
-                    "gradeName": "Grade-1",
+                    "gradeName": "Grade-2",
                     "sub": [
                         {
-                            "subName": "Myan",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Myanmar",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mZaGCbwKfrmTyd9gjhZS2l"
                         },
                         {
-                            "subName": "Eng",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "English",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kAjm5Y7iJBxLgitGea0TpA"
                         },
                         {
-                            "subName": "Math",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Mathematics",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lwCnXP2PDDV3RC0apATvBm"
+                        },
+                        {
+                            "subName": "Science",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nSLp-P_6nJhiah-Af7sDyt"
+                        },
+                        {
+                            "subName": "Moral",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mCmHw8IIsNrHjs0wIyVeLF"
+                        },
+                        {
+                            "subName": "Lift Skills",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kDHeHo88T2QGFogqKl1xFz"
+                        },
+                        {
+                            "subName": "Social",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5m3s84iT33jH7RS6JPUdBq5"
+                        }
+                    ]
+                },
+                {
+                    "gradeName": "Grade-3",
+                    "sub": [
+                        {
+                            "subName": "Myanmar",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kC7o3r0H89XwJJgvS3wPO_"
+                        },
+                        {
+                            "subName": "English",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lkEndBS7M73-cQjdHlPN_e"
+                        },
+                        {
+                            "subName": "Mathematics",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nMUGIw84Pa7QdROcXimRuF"
+                        },
+                        {
+                            "subName": "Science",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mNrkrDAZ_W-_WLyPVSWs3_"
+                        },
+                        {
+                            "subName": "Moral",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5l11ymZSmd3_4vLVF-bMgNE"
+                        },
+                        {
+                            "subName": "Lift Skills",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nA1EXwPqkjBu8dT-_F0-27"
+                        },
+                        {
+                            "subName": "Social",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lreieOLO5lZ9_Mr3aJdheL"
+                        }
+                    ]
+                },
+                {
+                    "gradeName": "Grade-4",
+                    "sub": [
+                        {
+                            "subName": "Myanmar",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lu-XJI0uB3sDynoxIv3YMH"
+                        },
+                        {
+                            "subName": "English",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nhZhBMq0DN4LF6wCrYQj5z"
+                        },
+                        {
+                            "subName": "Mathematics",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mTo-pKoGmco7quH5abH8h5"
+                        },
+                        {
+                            "subName": "Science",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5ksbVRLrdqTGd0HTcfFwY11"
+                        },
+                        {
+                            "subName": "Moral",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5my2YsD7FcrAb3jDAeCI63Q"
+                        },
+                        {
+                            "subName": "Lift Skills",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lOPnjANroILr0LMMj21xUM"
+                        },
+                        {
+                            "subName": "Social",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5m_xktB1M4XNImqIyWk2H4H"
+                        }
+                    ]
+                },
+                {
+                    "gradeName": "Grade-5",
+                    "sub": [
+                        {
+                            "subName": "Myanmar",
+                            "link": "http://www.youtube.com/blahblah"
+                        },
+                        {
+                            "subName": "English",
+                            "link": "http://www.youtube.com/blahblah"
+                        },
+                        {
+                            "subName": "Mathematics",
+                            "link": "http://www.youtube.com/blahblah"
+                        },
+                        {
+                            "subName": "Science",
+                            "link": ""
+                        },
+                        {
+                            "subName": "Moral",
+                            "link": ""
+                        },
+                        {
+                            "subName": "Lift Skills",
+                            "link": ""
+                        },
+                        {
+                            "subName": "Social",
+                            "link": ""
                         }
                     ]
                 }
@@ -48,53 +191,134 @@
             "levelName": "Middle",
             "grade": [
                 {
-                    "gradeName": "Grade-2",
+                    "gradeName": "Grade-6",
                     "sub": [
                         {
-                            "subName": "Myan",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Myanmar",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5l9YKcvKD2TKAx7MHWe-kVR"
                         },
                         {
-                            "subName": "Eng",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "English",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5k3lzGbBwZ3U9mpO4SSP2Xk"
                         },
                         {
-                            "subName": "Math",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Mathematics-1",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mAh7yIfuGbg4Sx8fs3vC0C"
+                        },
+                        {
+                            "subName": "Mathematics-2",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mpSl7kb-PrSgLchpj_gsSs"
+                        },
+                        {
+                            "subName": "Science",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kpd8MXLQtmva-bHHZX73Xd"
+                        },
+                        {
+                            "subName": "Geography",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kVACoCcOG6IG-p3tTFVBSI"
+                        },
+                        {
+                            "subName": "History",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kw1biIksxZlocSn556ir9Q"
                         }
                     ]
                 },
-                 {
-                    "gradeName": "Grade-3",
+                {
+                    "gradeName": "Grade-7",
                     "sub": [
                         {
-                            "subName": "Myan",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Myanmar",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nczlLbe-P333BU8eHFzTzm"
                         },
                         {
-                            "subName": "Eng",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "English",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nwDILs7MPxlaGx4utR12-Y"
                         },
                         {
-                            "subName": "Math",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Mathematics-1",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mIz-SkXmutFlCDU4dgsPmc"
+                        },
+                        {
+                            "subName": "Mathematics-2",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5li9Jcoqx1VXm2FUh7Vd5lU"
+                        },
+                        {
+                            "subName": "Science",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mLVYU2UleGeZyFA9ZJOox6"
+                        },
+                        {
+                            "subName": "Geography",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lS7q_RxCaZCwNwnj7wr3f-"
+                        },
+                        {
+                            "subName": "History",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5ndp319dhE3MJbZWBG6zKc3"
                         }
                     ]
                 },
-                 {
-                    "gradeName": "Grade-4",
+                {
+                    "gradeName": "Grade-8",
                     "sub": [
                         {
-                            "subName": "Myan",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Myanmar",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5k6QzTpcDqZIluUe6Nj7gKJ"
                         },
                         {
-                            "subName": "Eng",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "English",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5k6QzTpcDqZIluUe6Nj7gKJ"
                         },
                         {
-                            "subName": "Math",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Mathematics-1",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kodo9dcOk5gOf9fcv3GiBh"
+                        },
+                        {
+                            "subName": "Mathematics-2",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5m5SLKYIdwBSWD8JDcjmc62"
+                        },
+                        {
+                            "subName": "Science",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                        },
+                        {
+                            "subName": "Geography",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5n6kNE5NYD97xZtUuacL2PD"
+                        },
+                        {
+                            "subName": "History",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nHGSFaFLltDR2Xjk-4w559"
+                        }
+                    ]
+                },
+                {
+                    "gradeName": "Grade-9",
+                    "sub": [
+                        {
+                            "subName": "Myanmar",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5n3vugDIA-tpKlLvUFr59Qa"
+                        },
+                        {
+                            "subName": "English",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kpxqLs3PqpzqrctTZaISeN"
+                        },
+                        {
+                            "subName": "Mathematics-1",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nPoGxhvxd5WenIMlB0tPaE"
+                        },
+                        {
+                            "subName": "Mathematics-2",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kAxTmpQe8_lQ5bTTX120K-"
+                        },
+                        {
+                            "subName": "Science",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5neafVpD7lO56xdckL_TztC"
+                        },
+                        {
+                            "subName": "Geography",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5l561SjM_jptcrViiyGHjjh"
+                        },
+                        {
+                            "subName": "History",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lCKYaDhDTM-ocA7-Mw-jn7"
                         }
                     ]
                 }
@@ -104,53 +328,68 @@
             "levelName": "Hight",
             "grade": [
                 {
-                    "gradeName": "Grade-5",
+                    "gradeName": "Grade-10",
                     "sub": [
                         {
-                            "subName": "Myan",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Myanmar",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5luMZjXjKCJl-nfGSBCHbVs"
                         },
                         {
-                            "subName": "Eng",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "English",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5l2HRRfMqS-qPq4g6glx_rM"
                         },
                         {
-                            "subName": "Math",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Mathematics",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lpmc_ngQbA1iX9ntt0aMFK"
+                        },
+                        {
+                            "subName": "Chemistry",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5k--cQLVqPbOc_pi_msrsMi"
+                        },
+                        {
+                            "subName": "Physics",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5llucVGa8fwGNqpdI8lXX9s"
+                        },
+                        {
+                            "subName": "Biology",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lTjnZbBwWuRl7SCg0y3om5"
+                        },
+                        {
+                            "subName": "Economics",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lmSrZ0DWXKGYU-cxNdZ8ej"
                         }
                     ]
                 },
-                 {
-                    "gradeName": "Grade-6",
+                {
+                    "gradeName": "Grade-11",
                     "sub": [
                         {
-                            "subName": "Myan",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Myanmar",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5lFnqbIvo0mvwe4sb5h-mhJ"
                         },
                         {
-                            "subName": "Eng",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "English",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nFsJ0yPo_FtxGMR3lktx7b"
                         },
                         {
-                            "subName": "Math",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
-                        }
-                    ]
-                },
-                 {
-                    "gradeName": "Grade-7",
-                    "sub": [
-                        {
-                            "subName": "Myan",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Mathematics",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5nyLsodedFLQefps-lDAY9e"
                         },
                         {
-                            "subName": "Eng",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Chemistry",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kkksDgJzSG0zUlXiwVr1wA"
                         },
                         {
-                            "subName": "Math",
-                            "link": "http://youtube.com/playlist?list=PLP097oG8JQ5mQnavcCcqIEUTqG5ocipcf"
+                            "subName": "Physics",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kH8PFZYKjzYt9A4DUh3Yxn"
+                        },
+                        {
+                            "subName": "Biology",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kH8PFZYKjzYt9A4DUh3Yxn"
+                        },
+                        {
+                            "subName": "Economics",
+                            "link": "https://youtube.com/playlist?list=PLP097oG8JQ5kH8PFZYKjzYt9A4DUh3Yxn"
                         }
                     ]
                 }
@@ -158,3 +397,5 @@
         }
     ]
 }
+data.json
+Displaying data.json.
